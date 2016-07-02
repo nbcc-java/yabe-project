@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<testsuite failures="0" time="0.023" errors="0" skipped="0" tests="2" name="PostTest">
+  <testcase classname="PostTest" name="useTheCommentsRelation" time="0.018">
+      </testcase>
+  <testcase classname="PostTest" name="createPost" time="0.005">
+      </testcase>
+</testsuite>
